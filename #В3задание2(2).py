@@ -1,4 +1,4 @@
-#В3задание2(2)
+#лаба3 вариант1 задание2
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
 
