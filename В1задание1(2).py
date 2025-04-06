@@ -1,3 +1,4 @@
+#лаба3 вариант1 задание1
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris
 
